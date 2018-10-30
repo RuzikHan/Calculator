@@ -1,3 +1,0 @@
-C:\CMake\bin\cmake.exe -E remove -f CMakeFiles\Calculator.dir/objects.a
-C:\mingw32\bin\ar.exe cr CMakeFiles\Calculator.dir/objects.a @CMakeFiles\Calculator.dir\objects1.rsp
-C:\mingw32\bin\g++.exe  -g   -Wl,--whole-archive CMakeFiles\Calculator.dir/objects.a -Wl,--no-whole-archive  -o Calculator.exe -Wl,--out-implib,libCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Calculator.dir\linklibs.rsp
